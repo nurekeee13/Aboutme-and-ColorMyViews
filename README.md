@@ -1,2 +1,2 @@
-# Aboutme-and-ColorMyViews
+#ColorMyViews
 Assignment 2
